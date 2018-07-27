@@ -5,7 +5,7 @@ import {BrowserRouter} from 'react-router-dom';
 
 import App from './containers/App';
 import store from './store';
-//HAHA
+//HAHAHAHA
 const element = (
     <BrowserRouter>
         <Provider store={store}>
